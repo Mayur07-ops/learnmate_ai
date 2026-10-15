@@ -15,7 +15,7 @@
     "react": "latest",
     "react-dom": "latest",
     "recharts": "latest",
-    "lucide-react": "latest"
+    "lucide-react": "latest",
     "react-is": "^19.0.0"
   },
   "devDependencies": {"@types/react": "latest",
